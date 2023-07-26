@@ -1,1 +1,1 @@
-The site only works on IE 11 and Mypal, older IE versions and modern browsers do not work.
+The site only works on IE 11, Mypal, Pale Moon and K-Meleon, older IE versions and modern browsers do not work.
